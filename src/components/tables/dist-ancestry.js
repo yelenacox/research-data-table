@@ -5,7 +5,7 @@ export const DistAncestry = ({ focusData, COLORS }) => {
         style={{
           display: "flex",
           flexDirection: "row",
-          width: "580px",
+          width: "42vw",
           justifyContent: "space-evenly",
           padding: "5px",
           fontSize: ".8rem",
